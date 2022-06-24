@@ -1,0 +1,2 @@
+Body{background:#212121}nav{padding:0 1rem}.content{min-height:calc(100vh - 134px);padding:1.5rem 0}.movies{grid-gap:1rem;display:grid;gap:1rem;grid-template-columns:repeat(auto-fill,minmax(250px,1fr))}.card{display:flex;flex-direction:column}.card-image{flex:1 1 auto}.search-btn{margin-top:.3rem;position:absolute;right:.5rem;top:0}label:not(:last-child){margin-right:1rem}
+/*# sourceMappingURL=main.9e141041.css.map*/
